@@ -1,8 +1,4 @@
-
 <!DOCTYPE html>
-
-
-
 <html>
 <head>
   <style>
@@ -45,10 +41,9 @@
 <body>
     <h1>Welcome to My First Website </h1>
     <ul>
-        <li><a href="" target="_blank">Item 1.<a.></li>
-        <li>Item 2</li>
+        <li><a href="file:///C:/Users/%E4%B8%8D%E8%BE%B0/buchen/work.html/work1---1.html">self-introduction</a></li>
+        <li><a href="file:///C:/Users/%E4%B8%8D%E8%BE%B0/buchen/work.html/work1---2.html">football</a></li>
     </ul>
-    
     <img src="C:\Users\不辰\Desktop\1.jpg" alt="Image">
 </body>
 </html>
