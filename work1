@@ -44,9 +44,8 @@
 </head>
 <body>
     <h1>Welcome to My First Website </h1>
-  <h1>My name is Nick</h1>
     <ul>
-        <li><a href="" target="_blank">Item 1.<a,></li>
+        <li><a href="" target="_blank">Item 1.<a.></li>
         <li>Item 2</li>
         <li>Item 3</li>
     </ul>
