@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Second Website</title>
+</head>
+  <style>
+
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: lightblue;
+  }
+  
+  h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+  }
+  
+  p {
+      font-size: 18px;
+  }
+  
+  ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  }
+  
+  li {
+      margin-bottom: 10px;
+  }
+  
+  img {
+      width: 300px;
+      height: auto;
+  }
+
+
+  </style>
+<body>
+    <h1>My name is Nick.</h1>
+    <h2>From Taizhou City, Zhejiang Province, China.</h2>
+    <h3>Currently studying at Ningbo City Vocational and Thchnical College.</h3>
+    <h4>My hobbies are football and table tennis.</h4>
+    <h5>Here is my personal half photo.</h5>
+    <img src="C:\Users\不辰\Pictures\mmexport1695292045372.jpg" alt="Image">
+</body>
+</html>
