@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Third Website</title>
+</head>
+  <style>
+
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: lightblue;
+  }
+  
+  h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+  }
+  
+  p {
+      font-size: 18px;
+  }
+  
+  ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  }
+  
+  li {
+      margin-bottom: 10px;
+  }
+  
+  img {
+      width: 300px;
+      height: auto;
+  }
+
+
+  </style>
+<body>
+     <h1>Here, I will introduce some relevant knowledge about football.</h1>
+     <h2>Football is a sport in which two teams attack and defend each other on the same rectangular court according to certain rules. Because of its strong confrontation, changeable tactics and large number of participants, football is known as "the world's No. 1 sport". 
+        Modern football began in the United Kingdom , and its predecessor originated from the ball game "Keju" in Linzi (present-day Zibo City) in ancient China, Shandong Province, and later spread from China to Europe by the Arabs, and gradually evolved into modern football. In 1848, the Cambridge Rules, the first written rules in the history of football, were born. On October 26, 1863, England established the world's first football association and unified the rules of competition in football. In 1872, the first official inter-association match was held between England and Scotland. In 1900, at the second Summer Olympics, football was included in the official sport. Football is widely translated as "Football" around the world, with only a few countries such as United States being translated as "Soccer", and "Football" is referred to as "American football" in United States and Canada. 
+        The highest organization of football is the International Football Federation, founded in 1904 and headquartered in Zurich, Switzerland. The highest organization in China is the Chinese Football Association, which was founded in Beijing on January 3, 1955. </h2>
+    <img src="C:\Users\不辰\Desktop\496.jpg" alt="Image">
+</body>
+</html>
